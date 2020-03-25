@@ -32,6 +32,6 @@ const createTask = async (title) => (
 )
 
 module.exports = {
-  init
+  init,
   createTask
 }
